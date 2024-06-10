@@ -12,7 +12,7 @@ and run the server (same with the front end) with:
 ```
 npm start
 ```
-# Project Preview (see the [https://github.com/trbshyguy1010/project07-fallback-client]client repo for download)
+# Project Preview (see the [https://github.com/trbshyguy1010/project07-fallback-client](client) repo for download)
 
 
 
